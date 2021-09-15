@@ -1,5 +1,6 @@
 # Harry-Potter-invisible-Cloak-using-open-cv
-"C:\Users\banda\Desktop\664c81e410c508c3e758afcadb85c9b8.gif"
+![664c81e410c508c3e758afcadb85c9b8](https://user-images.githubusercontent.com/61614905/133499739-153c509a-d329-4851-bcd9-72929635a517.gif)
+
 This is a beginner level computer vision project implemented using opencv with python as its language.
 
 Concepts used :
